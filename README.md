@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Fotima%20Rahimova&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=iOS%20Developer%20%C2%B7%20Swift%20%C2%B7%20SwiftUI&descSize=20&descAlignY=58" width="100%" alt="header" />
+<img src="./header.svg" width="100%" alt="Fotima Rahimova" />
 
 <h2>
   Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32" alt="wave" />
@@ -38,7 +38,36 @@ I'm a Computer Science student building iOS apps with **Swift** and **SwiftUI**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="" />
 
+## 🚀 My Apps
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 FocusFlow</h3>
+      <p>Stay focused and productive. <i>(Add 1 line about what it does.)</i></p>
+      <a href="https://github.com/rakhimovaf/YOUR_FOCUSFLOW_REPO">👉 View repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌤 Weatherly</h3>
+      <p>Weather app with current conditions and forecast. <i>(Add API / features.)</i></p>
+      <a href="https://github.com/rakhimovaf/YOUR_WEATHERLY_REPO">👉 View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽 Tasty</h3>
+      <p>Recipe app powered by TheMealDB API, with a premium subscription (Tasty Pro) and an AI assistant.</p>
+      <a href="https://github.com/rakhimovaf/YOUR_TASTY_REPO">👉 View repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧮 Calculator</h3>
+      <p>Clean calculator built with SwiftUI. <i>(Add 1 line about features.)</i></p>
+      <a href="https://github.com/rakhimovaf/YOUR_CALCULATOR_REPO">👉 View repository</a>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="" />
 
 ## 🌱 Currently Learning
 
@@ -51,10 +80,10 @@ I'm a Computer Science student building iOS apps with **Swift** and **SwiftUI**.
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@rk_fr)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+<img src="./footer.svg" width="100%" alt="" />
 
 </div>
