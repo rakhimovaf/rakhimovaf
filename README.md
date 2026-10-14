@@ -38,36 +38,7 @@ I'm a Computer Science student building iOS apps with **Swift** and **SwiftUI**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="" />
 
-## 🚀 My Apps
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 FocusFlow</h3>
-      <p>Stay focused and productive. <i>(Add 1 line about what it does.)</i></p>
-      <a href="https://github.com/rakhimovaf/YOUR_FOCUSFLOW_REPO">👉 View repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌤 Weatherly</h3>
-      <p>Weather app with current conditions and forecast. <i>(Add API / features.)</i></p>
-      <a href="https://github.com/rakhimovaf/YOUR_WEATHERLY_REPO">👉 View repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🍽 Tasty</h3>
-      <p>Recipe app powered by TheMealDB API, with a premium subscription (Tasty Pro) and an AI assistant.</p>
-      <a href="https://github.com/rakhimovaf/YOUR_TASTY_REPO">👉 View repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧮 Calculator</h3>
-      <p>Clean calculator built with SwiftUI. <i>(Add 1 line about features.)</i></p>
-      <a href="https://github.com/rakhimovaf/YOUR_CALCULATOR_REPO">👉 View repository</a>
-    </td>
-  </tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%" alt="" />
 
 ## 🌱 Currently Learning
 
